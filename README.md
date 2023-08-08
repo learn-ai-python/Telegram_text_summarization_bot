@@ -10,8 +10,8 @@ Telegram text summarization bot туторіал. У даних туторіал
 * [Туторіал по Telegram text summarization bot. Частина-5](https://www.tiktok.com/@learn.ai.python/video/7254275181596691718?lang=uk-UA)
 * [Туторіал по Telegram text summarization bot. Частина-6](https://www.tiktok.com/@learn.ai.python/video/7255008544326487301?lang=uk-UA)
 * [Туторіал по Telegram text summarization bot. Частина-7](https://www.tiktok.com/@learn.ai.python/video/7257631608868539653?lang=uk-UA)
-* [Туторіал по Telegram text summarization bot. Частина-8] (ще не опублікована у TikTok)
-* [Туторіал по Telegram text summarization bot. Частина-9] (ще не опублікована у TikTok)
+* [Туторіал по Telegram text summarization bot. Частина-8](https://www.tiktok.com/@learn.ai.python/video/7261326752302042373?lang=uk-UA)
+* [Туторіал по Telegram text summarization bot. Частина-9](https://www.tiktok.com/@learn.ai.python/video/7262431491018247430?lang=uk-UA)
 
 ## 1️⃣ Крок-1
 Спочатку ми знаходимо у Telegram ```@BotFather``` для ініціалізації бота. Для старту ```@BotFathe```r виконуємо команду ```/start```. Створюємо нового бота за допомогою команди ```/newbot```. Назвемо цього бота як *Telegram NLP Bot* (заголовок). Придумаємо йому унікальний нікнейм (посилання). І після цього отримаємо секретний токен.
